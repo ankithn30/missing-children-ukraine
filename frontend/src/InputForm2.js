@@ -4,11 +4,11 @@ const App = () => {
   return (
     <div>
       <label>
-        What do we eat?
+       Country of Residence 
         <select>
-          <option value="fruit">Fruit</option>
-          <option value="vegetable">Vegetable</option>
-          <option value="meat">Meat</option>
+          <option value="Ukraine">Country</option>
+          <option value="Poland">Country</option>
+          <option value="Russia">Country</option>
         </select>
       </label>
     </div>
